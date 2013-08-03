@@ -1,0 +1,5 @@
+lib/impact/*
+lib/weltmeister/*
+tools/*
+node_modules/*
+weltmeister.html
